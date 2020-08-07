@@ -32,9 +32,6 @@
 <input type="submit" value="go"><br/>
 </form>
 
-Object page=this;
-<% (HttpServlet)page.log("message"); %>
-<% this.log("message"); %>
 
 </body>
 </html>
